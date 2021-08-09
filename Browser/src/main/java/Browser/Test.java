@@ -8,6 +8,7 @@ import com.microsoft.edge.seleniumtools.EdgeDriver;
 import com.microsoft.edge.seleniumtools.EdgeOptions;
 
 public class Test {
+	//TEST
 	public static void main(String[] args) {
 		System.setProperty("webdriver.edge.driver", "C:\\Users\\Simon\\workspace-tools\\Browser\\EdgeDriver\\msedgedriver.exe");
 		EdgeOptions edgeOptions = new EdgeOptions();
